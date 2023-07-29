@@ -1,0 +1,76 @@
+Mozilla/5.0 (Mobile; CKT_U1030AC; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1
+Mozilla/5.0 (Mobile; ATT_U1030AA; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1
+Mozilla/5.0 (Mobile; Android 4.4; GT-P7100 Build/HRI83; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; N139DL; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1
+Mozilla/5.0 (Mobile; rv:37.0; 4044V) Gecko/68.0 Firefox/101.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; TCL 4056L; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; TCL 4056S; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; TCL 4056SPP; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; TCL 4056W; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; ALCATEL 4056W; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; ALCATEL 4056Z; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0
+Mozilla/5.0 (Mobile; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; $LYF/$F30C/$LYF_F30C-000-09-07-191217; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; LYF/F210Q/LYF-F210Q-000-00-10-111219; Android; rv:83.0) Gecko/83.0 Firefox/83.0 KAIOS/2.5 YouTube/1.92.52.J
+Mozilla/5.0 (Mobile; LYF/F210Q/LYF-F210Q-000-00-10-111219; Android; rv:80.0) Gecko/80.0 Firefox/80.0 KAIOS/2.5 YouTube/1.92.52.J
+Mozilla/5.0 (Mobile; rv:37.0; 4044V) Gecko/37.0 Firefox/37.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-26-310118; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; ALCATEL4044C; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; ALCATEL4044V; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-23-181217; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; ALCATEL4044O; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; ALCATEL4044T; rv:37.0) Gecko/37.0 Firefox/37.0 KaiOS/1.0
+Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; LYF/F30C/LYF_F30C-000-09-21-021018; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; LYF/F101K/LYF-F101K-000-01-39-130818;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; LYF/F81E/LYF-F81E-000-01-21-100818; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; LYF/F41T/LYF-F41T-000-01-1F-140818; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Linux; rv:48.0; U; US) Gecko/48.0 Firefox/48.0 KAIOS/2.5	Firefox 48	
+Mozilla/5.0 (Mobile: Nokia_2720_Flip: rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2	
+Mozilla/5.0 (Mobile; ALCATEL 4052R; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2	
+Mozilla/5.0 (Mobile; ALIGATOR_K50_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2	
+Mozilla/5.0 (Mobile; Digit_Digit4G_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.2.2	
+Mozilla/5.0 (Mobile; LOGIC_LOGIC_B8K_3G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1.2
+Mozilla/5.0 (Mobile; LYF/F101K/LYF-F101K-000-01-39-130818;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0	
+Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-34-170919;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5	
+Mozilla/5.0 (Mobile; LYF/F220B/LYF-F220B-003-01-45-051119;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5	
+Mozilla/5.0 (Mobile; LYF/F220B/LYF-F220B-003-01-50-091120;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5
+Mozilla/5.0 (Mobile; LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5
+Mozilla/5.0 (Mobile; LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5
+Mozilla/5.0 (Mobile; LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5 
+Mozilla/5.0 (Mobile; LYF/F30C/LYF_F30C-000-09-21-021018; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0	
+Mozilla/5.0 (Mobile; LYF/F320B/LYF-F320B-002-02-16-180321;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2	
+Mozilla/5.0 (Mobile; LYF/F320B/LYF-F320B-002-02-56-250322;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.3.2	
+Mozilla/5.0 (Mobile; LYF/F41T/LYF-F41T-000-01-1F-140818; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0	
+Mozilla/5.0 (Mobile; LYF/F81E/LYF-F81E-000-01-21-100818; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0	
+Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0	
+Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-23-181217; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0
+Mozilla/5.0 (Mobile; Nokia_800_4G; rv:78.0) Gecko/78.0 Firefox/78.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; ALCATEL 4056Z; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; ALCATEL 4056W; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; TCL 4056W; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; TCL 4056SPP; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; TCL 4056S; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; TCL 4056L; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; N139DL; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1	
+Mozilla/5.0 (Mobile; TCL 4056V; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Mobile; Nokia 2780; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1	
+Mozilla/5.0 (Mobile;LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.0	
+Mozilla/5.0 (Android 10.1; Tablet; rv:111.0) Gecko/111.0 Firefox/111.0 KAIOS/3.5	
+Mozilla/5.0 (Mobile; ATT_U1030AA; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1	
+Mozilla/5.0 (Android; Mobile; Touch; rv:109.0) Gecko/111.0 Firefox/111.0 KAIOS/3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
