@@ -60,17 +60,3 @@ Mozilla/5.0 (Mobile;LYF/F300B/LYF-F300B-001-01-15-130718-i;Android; rv:84.0) Gec
 Mozilla/5.0 (Android 10.1; Tablet; rv:111.0) Gecko/111.0 Firefox/111.0 KAIOS/3.5	
 Mozilla/5.0 (Mobile; ATT_U1030AA; rv:84.0) Gecko/84.0 Firefox/84.0 KAIOS/3.1	
 Mozilla/5.0 (Android; Mobile; Touch; rv:109.0) Gecko/111.0 Firefox/111.0 KAIOS/3.5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
